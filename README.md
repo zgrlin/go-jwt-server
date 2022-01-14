@@ -20,5 +20,7 @@ http://127.0.0.1:8081/token
 
 ## Variables
 Header =>	claims["authorized"]
+
 Payload =>	claims["wallet"]
+
 Token Time =>	claims["expired"]
